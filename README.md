@@ -64,5 +64,5 @@ project-root/
 ## Mobile View
 
 <p align="center">
-  ![Mobile UI](mobile-ui.png)
+  <img src="mobile-ui.png" width="300">
 </p>
