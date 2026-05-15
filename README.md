@@ -53,7 +53,7 @@ project-root/
 ├── README.md
 ├── index.php
 └── questions.md
-
+---
 # Project Screenshots
 
 ## Desktop View
